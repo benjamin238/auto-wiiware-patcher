@@ -76,7 +76,7 @@ void ReplaceURLs(char *buffer, size_t len) {
             // replace nintendo url with wiimm url
             size_t p = url.find("nintendowifi.net");
             if(p != string::npos) {
-                url.replace(p, 16, "wiimmfi.de");
+                url.replace(p, 16, "benfi.ml");
             }
 
             // Fill up string with NULL until original length is reached
