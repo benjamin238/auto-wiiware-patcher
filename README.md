@@ -3,7 +3,7 @@
 ![Production List](https://img.shields.io/discord/206934458954153984.svg?style=flat-square)
 ![Version Badge](https://img.shields.io/github/release/riiconnect24/auto-wiiware-patcher.svg?style=flat-square)
 
-This patcher will make WiiWare patching easy to do to use Wiimmfi.
+Patches WiiWare Games for BenFi.
 
 ## Usage
 
